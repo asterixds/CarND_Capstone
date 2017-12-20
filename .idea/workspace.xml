@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="354e93e7-cd5f-4128-be35-7fdf3a112643" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/47_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/48_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/49_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/50_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/51_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/52_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/53_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/54_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/55_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/56_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/57_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/58_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/59_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/60_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/61_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/62_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/63_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/64_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/65_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/66_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/67_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/68_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/69_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/70_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/71_0.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/10_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/10_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/11_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/11_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/12_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/12_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/13_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/13_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/14_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/14_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/15_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/15_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/16_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/16_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/17_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/17_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/18_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/18_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/19_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/19_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/1_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/1_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/20_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/20_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/21_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/21_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/22_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/22_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/23_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/23_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/24_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/24_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/25_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/25_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/26_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/26_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/27_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/27_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/28_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/28_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/29_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/29_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/2_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/2_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/30_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/30_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/31_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/31_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/32_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/32_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/33_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/33_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/34_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/34_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/35_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/35_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/36_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/36_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/37_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/37_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/38_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/38_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/39_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/39_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/3_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/3_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/40_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/40_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/41_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/41_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/42_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/42_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/43_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/43_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/44_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/44_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/45_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/45_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/46_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/46_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/4_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/4_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/5_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/5_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/6_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/6_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/7_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/7_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/8_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/8_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/tl_detector/images/9_0.jpg" afterPath="$PROJECT_DIR$/ros/src/tl_detector/images/9_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ros/src/waypoint_updater/waypoint_updater.py" afterPath="$PROJECT_DIR$/ros/src/waypoint_updater/waypoint_updater.py" />
-    </list>
+    <list default="true" id="354e93e7-cd5f-4128-be35-7fdf3a112643" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +14,8 @@
       <file leaf-file-name="waypoint_updater.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ros/src/waypoint_updater/waypoint_updater.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="114" column="38" lean-forward="true" selection-start-line="114" selection-start-column="38" selection-end-line="114" selection-end-column="38" />
+            <state relative-caret-position="152">
+              <caret line="101" column="28" lean-forward="false" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
               <folding>
                 <element signature="e#23#35#0" expanded="true" />
               </folding>
@@ -132,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/ros/src/tl_detector/tl_detector.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding>
                 <element signature="e#22#34#0" expanded="true" />
               </folding>
@@ -213,8 +138,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="869" />
-    <option name="y" value="69" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="797" />
   </component>
@@ -311,7 +235,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="869" y="69" width="1400" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1400" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -436,7 +360,7 @@
     <entry file="file://$PROJECT_DIR$/ros/src/tl_detector/tl_detector.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
             <element signature="e#22#34#0" expanded="true" />
           </folding>
@@ -445,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ros/src/waypoint_updater/waypoint_updater.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="114" column="38" lean-forward="true" selection-start-line="114" selection-start-column="38" selection-end-line="114" selection-end-column="38" />
+        <state relative-caret-position="152">
+          <caret line="101" column="28" lean-forward="false" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
           <folding>
             <element signature="e#23#35#0" expanded="true" />
           </folding>

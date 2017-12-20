@@ -24,7 +24,7 @@ LOOKAHEAD_WPS = 200  # Number of waypoints we will publish. You can change this 
 
 MAX_DECEL = 0.5
 MPH_TO_MPS = 1609.34/3600.
-TARGET_SPEED_MPH = 20.
+TARGET_SPEED_MPH = 10.
 STOP_BUFFER = 5.0
 
 class WaypointUpdater(object):
