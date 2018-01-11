@@ -32,7 +32,7 @@ that we have created in the `__init__` function.
 
 '''
 
-UPDATE_RATE = 10
+UPDATE_RATE = 50 #has to be 50Hz
 
 class CarParams(object):
     def __init__(self):
